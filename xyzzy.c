@@ -2,7 +2,7 @@
 
 int foo(int x)
 {
-  x += 25;
+  x += 30;
   return x;
 }
 
