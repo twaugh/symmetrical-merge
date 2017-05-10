@@ -8,5 +8,5 @@ int foo(int x)
 
 int bar(int x)
 {
-  return logn(x, 10);
+  return floor(logn(x, 10));
 }
