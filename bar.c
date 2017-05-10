@@ -2,5 +2,5 @@
 
 int bar(int x)
 {
-  return log(x);
+  return logn(x, 10);
 }
